@@ -149,3 +149,34 @@ li a:hover:not(.active) {
   font-weight: normal;
   color: #6c6c6c;
 }
+/*---------------------------------
+------- highlights sections styles */
+.highlights-game {
+  display: flex;
+}
+.high-h2 {
+  font-size: 48px;
+  padding: 50px;
+  font-weight: 700;
+  margin-left: 133px;
+}
+.high-header p {
+  color: #6c6c6c;
+  font-size: 16px;
+  font-weight: 400;
+  margin-left: 182px;
+  margin-top: -65px;
+  line-height: 28px;
+  margin-right: 225px;
+}
+.high-header a {
+  width: 173px;
+  height: 44px;
+  padding: 10px 24px;
+  margin-left: 181px;
+}
+.high-img img {
+  width: 567px;
+  height: 427px;
+  margin-right: 156px;
+}
